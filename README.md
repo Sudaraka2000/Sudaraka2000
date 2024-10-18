@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalindu Sudaraka</h1>
+<h1 align="center">Hi 👋, I'm Sudaraka</h1>
 <h3 align="center">A undergraduate at Sabaragamuwa University of Sri Lanka and a Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalinmdusu&label=Profile%20views&color=0e75b6&style=flat" alt="kalinmdusu" /> </p>
