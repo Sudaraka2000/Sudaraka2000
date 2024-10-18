@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalinmdusu&label=Profile%20views&color=0e75b6&style=flat" alt="kalinmdusu" /> </p>
 
----
-- 👨‍💻 All of my projects are available at [https://github.com/Kalindusu](https://github.com/Kalindusu)
-
-- 📝 I regularly write articles on [https://medium.com/@sudarakakalindu20](https://medium.com/@sudarakakalindu20)
-
-- 💬 Ask me about **react,nodejs,expressjs,springboot,mongodb,mysql**
-
-- 📫 How to reach me **sudarakakalindu20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
